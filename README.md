@@ -20,5 +20,5 @@ The tutorial is based on the open source packages [`MNE-Python`](https://mne.too
 
 [Linnea Evanson](https://scholar.google.com/citations?user=VgTpOTIAAAAJ&hl=en) \
 [Lucy (Mingfang) Zhang](https://scholar.google.com/citations?view_op=list_works&hl=en&user=23vdTiQAAAAJ) \
-[Hubert Banville](https://hubertjb.github.io/)
+[Hubert Banville](https://hubertjb.github.io/) \
 [Jean-Rémi King](https://kingjr.github.io/)
