@@ -10,11 +10,11 @@ The tutorial is based on the open source packages [`MNE-Python`](https://mne.too
 
 ## Running notebooks in Google Colab
 
-**Part 1**: [Linear decoding](https://colab.research.google.com/github/lucyzmf/NeuralDecoding-CCN2025/blob/main/1-linear_decoding.ipynb)
+**Part 1**: [Linear decoding](https://colab.research.google.com/github/lucyzmf/NeuralDecoding-CCN2025/blob/main/part1-linear_decoding.ipynb)
 
-**Part 2**: [Developing efficiently: cluster and caching](https://colab.research.google.com/github/lucyzmf/NeuralDecoding-CCN2025/blob/main/2-exca.ipynb)
+**Part 2**: [Developing efficiently: cluster and caching](https://colab.research.google.com/github/lucyzmf/NeuralDecoding-CCN2025/blob/main/part2-exca.ipynb)
 
-**Part 3**: [Decoding with deep learning](https://colab.research.google.com/github/lucyzmf/NeuralDecoding-CCN2025/blob/main/3-deep_decoding.ipynb)
+**Part 3**: [Decoding with deep learning](https://colab.research.google.com/github/lucyzmf/NeuralDecoding-CCN2025/blob/main/part3-deep_decoding.ipynb)
 
 ## Authors
 
